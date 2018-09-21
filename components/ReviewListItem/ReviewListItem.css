@@ -1,0 +1,52 @@
+.reviewRatingComp{
+  float: right;
+  margin-left: 1rem;
+}
+
+.reviewRatingCompIcon{
+  margin: 0 !important;
+}
+
+.reviewAutorPhoto{
+  border-radius: 0 !important;
+}
+
+.reviewMoreRatingGrid{
+  margin: 1em 0 0 !important;
+}
+.reviewMoreRatingColumn{
+  padding: 0 !important;
+}
+
+.reviewConsumerType{
+  float: right;
+  margin: 0 !important;
+}
+
+.reviewPhotosBox{
+  margin-top: 1em;
+  min-height: 80px;
+}
+
+.reviewSourceLabel{
+  width: 2rem !important;
+}
+.reviewSourceLabelImage{
+  border-radius: 0 !important;
+  margin-left: 0.5em;
+  margin-top: -0.4rem;
+}
+
+.reviewExtraContent{
+  padding: .4em 1em !important;
+}
+.reviewExtraContentGrid{
+  margin: 0 !important;
+}
+.reviewExtraContentColumn{
+  padding: 0 !important;
+}
+.reviewExtraContentColumnRight{
+  padding: 0 !important;
+  text-align: right;
+}
